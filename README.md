@@ -7,7 +7,7 @@ I couldn't get the webflasher at https://flasher.bitronics.store/ to work and ha
 
 ## Install instructions
 
-Visit the [webflasher](https://fr4nkfletcher.github.io/NerdMiner_v2-Cheap-Yellow-Display/flash.html) and click Connect
+Visit the [webflasher](https://jpduhen.github.io/NerdMiner_v2-Cheap-Yellow-Display/flash.html) and click Connect
 
 ## NerdMiner configuration
 
