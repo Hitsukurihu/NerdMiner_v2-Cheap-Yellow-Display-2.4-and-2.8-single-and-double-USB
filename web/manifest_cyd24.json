@@ -5,9 +5,9 @@
       "chipFamily": "ESP32",
       "improv": false,
       "parts": [
-        { "path": "ESP32-2432S028R_bootloader.bin", "offset": 4096 },
-        { "path": "ESP32-2432S028R_partitions.bin", "offset": 32768 },
-        { "path": "boot_app0.bin", "offset": 57344 },
+        { "path": "0x1000_bootloader.bin", "offset": 4096 },
+        { "path": "0x8000_partitions.bin", "offset": 32768 },
+        { "path": "0xe000_boot_app0.bin", "offset": 57344 },
         { "path": "ESP32-2432S024R_firmware.bin", "offset": 65536 }
       ]
     },
