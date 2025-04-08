@@ -1,4 +1,4 @@
-# NerdMiner_v2 350KH/s version for Cheap-Yellow-Displays 2.4" 2.8" (one and 2 USB-ports) S2 Mini Wemos and C3 Super Mini"
+# NerdMiner_v2 350KH/s version for Cheap-Yellow-Displays 2.4", 2.8" (1 and 2 USB-ports versions) S2 Mini Wemos, C3 Super Mini and ESP32 Devkit V1"
 
 <p align="center">
   <img src="https://github.com/jpduhen/NerdMiner_v2-Cheap-Yellow-Display/blob/main/img/nmv2.jpg" alt="Demo 1">
