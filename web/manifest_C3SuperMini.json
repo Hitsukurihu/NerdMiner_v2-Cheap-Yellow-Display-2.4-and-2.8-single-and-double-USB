@@ -1,5 +1,5 @@
 {
-  "name": "NerdMiner_v2 CYD Webflasher",
+  "name": "NerdMiner_v2 C3 SuperMini Webflasher",
   "builds": [
     {
       "chipFamily": "ESP32",
