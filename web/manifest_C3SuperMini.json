@@ -2,7 +2,7 @@
   "name": "NerdMiner_v2 C3 SuperMini Webflasher",
   "builds": [
     {
-      "chipFamily": "ESP32",
+      "chipFamily": "ESP32C3",
       "improv": false,
       "parts": [
         { "path": "C3SuperMini_bootloader.bin", "offset": 4096 },
