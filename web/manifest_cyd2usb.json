@@ -8,7 +8,7 @@
         { "path": "0x1000_bootloader.bin", "offset": 4096 },
         { "path": "0x8000_partitions.bin", "offset": 32768 },
         { "path": "0xe000_boot_app0.bin", "offset": 57344 },
-        { "path": "ESP32_2432S028_2USB_firmware.bin", "offset": 65536 }
+        { "path": "ESP32-2432S028-2USB_firmware.bin", "offset": 65536 }
       ]
     },
     {
