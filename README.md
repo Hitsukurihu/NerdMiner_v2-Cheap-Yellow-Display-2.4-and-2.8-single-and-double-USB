@@ -1,4 +1,4 @@
-# NerdMiner_v2 optimized 350kh/s [evgenykzz2]version for ESP32-devices
+# [evgenykzz2]version for ESP32-devices
 
 <p align="center">
   <img src="https://github.com/jpduhen/NerdMiner_v2-Cheap-Yellow-Display/blob/main/img/nmv2.jpg" alt="Demo 1">
